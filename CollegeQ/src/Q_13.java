@@ -7,6 +7,7 @@ public class Q_13 {
         String DNA = scanner.next();
         System.out.printf("Enter a Search Sequence: ");
         String search = scanner.next();
+
         int count=0;
         int i=0;
         int index = 0;
