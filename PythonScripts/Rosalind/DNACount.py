@@ -1,0 +1,5 @@
+s = input("Enter a DNA String to count the nucleotides: ")
+print(s.count('A'),end=" ")
+print(s.count('C'),end=" ")
+print(s.count('G'),end=" ")
+print(s.count('T'),end="")
